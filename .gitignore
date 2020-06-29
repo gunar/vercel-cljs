@@ -1,0 +1,4 @@
+node_modules
+.vercel
+api
+.shadow-cljs

@@ -1,0 +1,25 @@
+{
+  "name": "vercel-cljs",
+  "version": "1.0.0",
+  "description": "Vercel Runtime for ClojureScript serverless functions",
+  "main": "src/index.js",
+  "homepage": "https://github.com/gunar/vercel-cljs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gunar/vercel-cljs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clojure",
+    "clojurescript",
+    "vercel"
+  ],
+  "author": "Gunar Gessner <g@gunargessner.com>",
+  "dependencies": {
+    "@vercel/build-utils": "^2.4.0",
+    "shadow-cljs": "^2.10.13"
+  }
+}
